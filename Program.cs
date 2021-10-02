@@ -6,8 +6,8 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Pitney Jules!");
-            System.Threading.Thread.Sleep(10000);
+            Console.WriteLine("OMG!!! It's Pitney Jules!!!");
+            System.Threading.Thread.Sleep(3000);
         }
     }
 }
